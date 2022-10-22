@@ -83,7 +83,7 @@ display: flex;
 .location{
     color: rgba(63, 62, 62, 0.5);
 }
-.profile_item:not(:last-child) {
+.profile_item  {
     border-right: 1px solid rgb(163, 161, 161);
 }
 .starts{
